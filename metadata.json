@@ -1,0 +1,7 @@
+{
+  "name": "LocalPulse",
+  "description": "Simple weekly growth dashboard for small local businesses in India bringing Google, Instagram, and WhatsApp metrics together with weekly action items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
